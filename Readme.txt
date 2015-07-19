@@ -128,36 +128,3 @@ The plugin allows foe extensive styleing using color pickers to match any side. 
 To set custom new user registration email template navigate to settings => Modal Login Registration email section. Enter template content and click "Save Changes".
 
 Add user name, password, login link to template using: %username%, %password%, %loginlink%.
-
-
-
-
-
-
-
-
-
-== A brief Markdown Example ==
-
-Ordered list:
-
-1. Some feature
-1. Another feature
-1. Something else about the plugin
-
-Unordered list:
-
-* something
-* something else
-* third thing
-
-Here's a link to [WordPress](http://wordpress.org/ "Your favorite software") and one to [Markdown's Syntax Documentation][markdown syntax].
-Titles are optional, naturally.
-
-[markdown syntax]: http://daringfireball.net/projects/markdown/syntax
-            "Markdown is what the parser uses to process much of the readme file"
-
-Markdown uses email style notation for blockquotes and I've been told:
-> Asterisks for *emphasis*. Double it up for **strong**.
-
-\`<?php code(); // goes in backticks ?>\`

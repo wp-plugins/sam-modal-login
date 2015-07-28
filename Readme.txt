@@ -1,4 +1,4 @@
-=== Sam Modal Login ===
+=== Sam's Modal Login ===
 Contributors: samplugins
 Donate link: http://samplugins.com/donation
 Tags: modal forgotten, modal login, modal register, modal sign in, WordPress Login, wordpress register form, wp login form, wp sign in
